@@ -2,6 +2,8 @@
 
 PDFXtract is a Next.js based RAG (Retrieval-Augmented Generation) designed for extracting, chunking, and semantically querying PDF content using vector databases and AI models. It enables efficient document processing and retrieval with semantic search capabilities.  
 
+The application is live at: https://pdf-xtract-kappa.vercel.app
+
 ## Tech Stack  
 - **Framework**: Next.js (TypeScript)  
 - **Styling**: Tailwind CSS  
@@ -12,11 +14,14 @@ PDFXtract is a Next.js based RAG (Retrieval-Augmented Generation) designed for e
 - **AI Models**: Gemini API, LangChain  
 - **Payments (Upcoming)**: Razorpay  
 
+## Screenshots
+![Image](https://github.com/user-attachments/assets/c9d51489-cd3c-4c18-9835-298c82d7179d)
+![Image](https://github.com/user-attachments/assets/44528d18-6c26-40fe-a769-d72ad6698ec7)
+
 ## Features  
 - Extract and process PDF content efficiently  
 - Chunk PDF data for semantic search  
-- Enable AI-driven querying and summarization  
-- Secure authentication with Clerk  
+- Enable AI-driven querying and summarization
 - Utilize vector embeddings for intelligent search  
 
 ## Setup  
