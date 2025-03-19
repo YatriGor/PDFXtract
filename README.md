@@ -16,7 +16,7 @@ The application is live at: https://pdf-xtract-kappa.vercel.app
 
 ## Screenshots
 ![Image](https://github.com/user-attachments/assets/c9d51489-cd3c-4c18-9835-298c82d7179d)
-![Image](https://github.com/user-attachments/assets/44528d18-6c26-40fe-a769-d72ad6698ec7)
+![Image](https://github.com/user-attachments/assets/00f59fac-c6f2-4bd7-abb4-5a38efbf652c)
 
 ## Features  
 - Extract and process PDF content efficiently  
