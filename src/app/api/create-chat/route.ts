@@ -5,10 +5,9 @@ import { getS3Url } from "@/lib/s3";
 import { auth } from "@clerk/nextjs/server";
 import { NextResponse } from "next/server";
 
-// /api/create-chat
 export async function POST(req: Request) {
   const { userId } = await auth();
-  if (!userId) {  
+  if (!userId) {
     return NextResponse.json({ error: "unauthorized" }, { status: 401 });
   }
   try {
