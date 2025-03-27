@@ -27,7 +27,7 @@ The application is live at: https://pdf-xtract-kappa.vercel.app
 ## Setup  
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/PDFXtract.git
+git clone https://github.com/YatriGor/PDFXtract.git
 
 # Navigate into the project directory
 cd PDFXtract
